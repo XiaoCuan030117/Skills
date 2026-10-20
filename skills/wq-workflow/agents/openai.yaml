@@ -1,0 +1,3 @@
+interface:
+  display_name: "WQ-workflow"
+  short_description: "按需完成需求澄清、计划审查、分阶段实现、代码审查与交付验收"
